@@ -1,0 +1,36 @@
+{
+                "title": "Müsait Dönüşümler",
+                "color": 14714208,
+                "fields": [
+                    {
+                        "name": "Kullanış",
+                        "value": "runa convert [dönüşüm kodu] [değer]",
+                        "inline": false
+                    },
+                    {
+                        "name": "Celsius/Fahrenheit",
+                        "value": "CToF veya FToC",
+                        "inline": false
+                    },
+                    {
+                        "name": "Miles/Kilometers",
+                        "value": "MilesToKm veya KmToMiles",
+                        "inline": false
+                    },
+                    {
+                        "name": "Kilograms/Pounds",
+                        "value": "KgToLb veya LbToKg",
+                        "inline": false
+                    },
+                    {
+                        "name": "Feet/Meters",
+                        "value": "FtToM veya MToFt",
+                        "inline": false
+                    },
+                    {
+                        "name": "Inches/Centimeters",
+                        "value": "InToCm veya CmToIn",
+                        "inline": false
+                    }
+                ]
+            }

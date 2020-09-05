@@ -1,0 +1,14 @@
+{
+  "USER_NOT_FOUND": "Kullanıcı bulunamadı :|",
+  "COLOR_NOT_FOUND": "Belirtilen renk bulunamadı :|",
+  "SERVER_NOT_FOUND":  "Sunucu bulunamadı :|",
+  "ARGUMENT_NOT_ROLE": "Belirtilen argüman bir rol değil :|",
+  "NO_PERMISSION": "Bunu yapmak için yeterli yetkiniz yok :|",
+  "NO_CONVERSION_VALUE": "Dönüştürelecek değeri belirtmediniz :|",
+  "NO_CONVERSION": "Dönüşümü belirtmediniz :|",
+  "NO_PREFIX": "Prefix belirtmediniz :|",
+  "NO_MEMBER": "Kullanıcı belirtmediniz :|",
+  "PREFIX_TOO_LONG": "Prefix 5 karakterden daha uzun olamaz :|",
+  "EXPIRED_CREDENTIALS": "{0} my credentials are expired, renew them :/",
+  "ARGUMENT_NOT_NUMBER": "Belirtilen argüman bir sayı değil :|"
+}
